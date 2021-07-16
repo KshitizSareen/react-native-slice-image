@@ -1,0 +1,26 @@
+{
+  "name": "react-native-slice-image",
+  "version": "1.0.1",
+  "description": "A React Native Package used for Slcing an Image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "Slice",
+    "Crop",
+    "Pan",
+    "Extract",
+    "Image"
+  ],
+  "author": "Kshitiz Sareen",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "@react-native-community/image-editor": "^2.3.0"
+  }
+}
