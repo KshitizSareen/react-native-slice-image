@@ -87,4 +87,8 @@ return(
 | Method  | Return Type | Description                                                      |  
 | ------  | ----------  |  --------------------------------------------------------------- |
 | Slice   | String      | The Uri of the new Image returned after slicing the original Image |
+
+## Demo
+
+![Alt Text](Demo.gif)
   

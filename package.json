@@ -1,6 +1,6 @@
 {
   "name": "react-native-slice-image",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A React Native Package used for Slcing an Image",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,9 @@
   },
   "dependencies": {
     "@react-native-community/image-editor": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KshitizSareen/react-native-slice-image"
   }
 }
