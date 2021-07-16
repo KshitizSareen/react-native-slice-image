@@ -90,5 +90,5 @@ return(
 
 ## Demo
 
-![Alt Text](Demo.mp4)
+![Alt Text](Demo.gif)
   
