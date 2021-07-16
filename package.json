@@ -1,6 +1,6 @@
 {
   "name": "react-native-slice-image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A React Native Package used for Slcing an Image",
   "main": "index.js",
   "scripts": {
