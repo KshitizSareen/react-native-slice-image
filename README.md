@@ -5,6 +5,11 @@
 
 `$ npm install react-native-slice-image --save`
 
+For Slicing Images, Please install @react-native-community/image-editor
+
+`$ npm install @react-native-community/image-editor --save`
+
+
 ### Mostly automatic installation
 
 `$ react-native link react-native-slice-image`
